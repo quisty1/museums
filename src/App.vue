@@ -9,13 +9,7 @@
 </template>
 
 <script>
-// import AddMuseum from './views/AddMuseum.vue';
-// import MuseumsList from './views/MuseumsList.vue';
 export default {
-  // components: {
-  //   MuseumsList,
-  //   AddMuseum
-  // }
 }
 </script>
 
